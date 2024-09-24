@@ -1,0 +1,20 @@
+.heading {
+    text-align: center;
+    color: blue;
+}
+
+.ikinci-baslik {
+    text-align: center;
+     color: brown;
+}
+
+.urunler {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.egitim-icerigi {
+    color: sienna;
+    display: flex;
+    justify-content: space-around;
+}
